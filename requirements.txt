@@ -1,0 +1,10 @@
+streamlit
+sqlalchemy
+psycopg2
+requests
+beautifulsoup4
+google-generativeai
+python-dotenv
+sentence-transformers
+faiss-cpu
+numpy

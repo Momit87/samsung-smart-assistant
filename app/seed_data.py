@@ -1,0 +1,14 @@
+SEED_DATA = [
+    {"model_name": "Samsung Galaxy S23 Ultra", "release_date": "2023, February", "display_size": "6.8 inches", "resolution": "1440x3088 pixels", "battery": "5000 mAh", "camera_main": "200MP", "ram": "8/12GB", "storage": "256GB/512GB/1TB", "price_usd": 1199.0},
+     {"model_name": "Samsung Galaxy S23 Ultra", "release_date": "2023, February", "display_size": "6.8 inches", "resolution": "1440x3088 pixels", "battery": "5000 mAh", "camera_main": "200MP", "ram": "8/12GB", "storage": "256GB/512GB/1TB", "price_usd": 1199.0},
+    {"model_name": "Samsung Galaxy S23+", "release_date": "2023, February", "display_size": "6.6 inches", "resolution": "1080x2340 pixels", "battery": "4700 mAh", "camera_main": "50MP", "ram": "8GB", "storage": "256GB/512GB", "price_usd": 999.0},
+    {"model_name": "Samsung Galaxy S23", "release_date": "2023, February", "display_size": "6.1 inches", "resolution": "1080x2340 pixels", "battery": "3900 mAh", "camera_main": "50MP", "ram": "8GB", "storage": "128GB/256GB/512GB", "price_usd": 799.0},
+    {"model_name": "Samsung Galaxy S22 Ultra", "release_date": "2022, February", "display_size": "6.8 inches", "resolution": "1440x3088 pixels", "battery": "5000 mAh", "camera_main": "108MP", "ram": "8/12GB", "storage": "128GB/256GB/512GB/1TB", "price_usd": 850.0},
+    {"model_name": "Samsung Galaxy A54", "release_date": "2023, March", "display_size": "6.4 inches", "resolution": "1080x2340 pixels", "battery": "5000 mAh", "camera_main": "50MP", "ram": "6/8GB", "storage": "128GB/256GB", "price_usd": 350.0},
+    {"model_name": "Samsung Galaxy Z Fold5", "release_date": "2023, August", "display_size": "7.6 inches", "resolution": "1812x2176 pixels", "battery": "4400 mAh", "camera_main": "50MP", "ram": "12GB", "storage": "256GB/512GB/1TB", "price_usd": 1799.0},
+    {"model_name": "Samsung Galaxy Z Flip5", "release_date": "2023, August", "display_size": "6.7 inches", "resolution": "1080x2640 pixels", "battery": "3700 mAh", "camera_main": "12MP", "ram": "8GB", "storage": "256GB/512GB", "price_usd": 999.0},
+    {"model_name": "Samsung Galaxy A34", "release_date": "2023, March", "display_size": "6.6 inches", "resolution": "1080x2340 pixels", "battery": "5000 mAh", "camera_main": "48MP", "ram": "6/8GB", "storage": "128GB/256GB", "price_usd": 280.0},
+    {"model_name": "Samsung Galaxy M54", "release_date": "2023, April", "display_size": "6.7 inches", "resolution": "1080x2400 pixels", "battery": "6000 mAh", "camera_main": "108MP", "ram": "8GB", "storage": "128GB/256GB", "price_usd": 400.0},
+    {"model_name": "Samsung Galaxy S21 FE", "release_date": "2022, January", "display_size": "6.4 inches", "resolution": "1080x2400 pixels", "battery": "4500 mAh", "camera_main": "12MP", "ram": "6/8GB", "storage": "128GB/256GB", "price_usd": 500.0}
+]
+
