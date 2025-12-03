@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>Your Intelligent Samsung Smartphone Companion</h3>
-  <p>A Streamlit-powered application that retrieves, analyzes, and explains Samsung phone specifications using FAISS-based semantic search and Gemini AI.</p>
+  <p>A Streamlit-powered application that retrieves, analyzes, and explains Samsung phone specifications using RAG , FAISS-based semantic search and Gemini AI.</p>
   <a href="https://your-video-link-here.com" target="_blank"><b>🎥 Watch Demo Video</b></a>
 </div>
 
