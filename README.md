@@ -5,7 +5,7 @@
 <div align="center">
   <h3>Your Intelligent Samsung Smartphone Companion</h3>
   <p>A Streamlit-powered application that retrieves, analyzes, and explains Samsung phone specifications using RAG , FAISS-based semantic search and Gemini AI.</p>
-  <a href="https://your-video-link-here.com" target="_blank"><b>🎥 Watch Demo Video</b></a>
+  <a href="https://drive.google.com/file/d/1zd3r45y6n8vi0RX6xSJMfClH0tVeb75U/view?usp=sharing" target="_blank"><b>🎥 Watch Demo Video</b></a>
 </div>
 
 ---
@@ -260,7 +260,7 @@ GEMINI_API_KEY=your_api_key_here
 
 <div align="center">
   <h3>✨ Ready to Explore Smartphones the Smart Way?</h3>
-  <p><a href="https://your-video-link-here.com" target="_blank"><b>🎥 Watch the Project Demo</b></a></p>
+  <p><a href="https://drive.google.com/file/d/1zd3r45y6n8vi0RX6xSJMfClH0tVeb75U/view?usp=sharing" target="_blank"><b>🎥 Watch the Project Demo</b></a></p>
 </div>
 
 ---
